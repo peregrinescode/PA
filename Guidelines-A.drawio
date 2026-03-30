@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.6.6">
   <diagram name="Page-1" id="Y6rzFA0iPf-mLOEnrQ1t">
-    <mxGraphModel dx="5595" dy="3347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4752" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-84" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-72">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-84" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491.71967695312503" y="66" />
@@ -12,10 +12,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-71" parent="1" style="rounded=1;arcSize=29;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Start" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-71" parent="1" style="rounded=1;arcSize=29;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="Start" vertex="1">
           <mxGeometry height="54" width="65" x="459.21967695312503" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-81" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-73">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-81" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491.71967695312503" y="229" />
@@ -23,10 +23,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-72" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="File EP Application in writing **Rule 35(1)**" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-72" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="File EP Application in writing **Rule 35(1)**" vertex="1">
           <mxGeometry height="63" width="278" x="352.71967695312503" y="154" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-82" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-57">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-82" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="493.3797515625" y="392" />
@@ -34,10 +34,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-73" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Receive submission receipt **Rule 35(2)**" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-73" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Receive submission receipt **Rule 35(2)**" vertex="1">
           <mxGeometry height="63" width="278" x="354.3797515625" y="317" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-64" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-57" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-53" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-64" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-57" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-53" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496.69990078125" y="930" />
@@ -45,10 +45,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-53" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Is the application complete?" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-53" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Is the application complete?" vertex="1">
           <mxGeometry height="278" width="278" x="362.63464999999997" y="1018" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-65" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.4;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-65" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.4;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="401.13464999999997" y="1308" />
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-63" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-56" value="&lt;span style=&quot;padding-left:&quot;&gt;missing drawings or parts of description OR erroneous filing&lt;/span&gt;">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-63" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-56" value="&lt;span style=&quot;padding-left:&quot;&gt;missing drawings or parts of description OR erroneous filing&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="468.13464999999997" y="1310" />
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-62" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-55" value="&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;no indication patent is sought OR&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;padding-left:&quot;&gt;no description/reference&lt;/span&gt;">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-62" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-55" value="&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;no indication patent is sought OR&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;padding-left:&quot;&gt;no description/reference&lt;/span&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="535.13465" y="1310" />
@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-61" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-54" value="Missing applicant/contact details OR erroneous filing">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-61" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-54" value="Missing applicant/contact details OR erroneous filing">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="602.13465" y="1308" />
@@ -88,13 +88,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-57" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);align=left;" value="Recieving Section checks for:&#xa;(i) Applicant identity/contact details&#xa;(ii) Indication that an EP is sought&#xa;(iii) Description or reference to a previously filed applicaiton&#xa;&#xa;If reference to prev app, EPO checks for:&#xa;(i) filing date of prev app&#xa;(ii) file number&#xa;(iii) office where filed&#xa;(iv) indication to use reference" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-57" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;align=left;labelBackgroundColor=none;rounded=1;" value="Recieving Section checks for:&#xa;(i) Applicant identity/contact details&#xa;(ii) Indication that an EP is sought&#xa;(iii) Description or reference to a previously filed applicaiton&#xa;&#xa;If reference to prev app, EPO checks for:&#xa;(i) filing date of prev app&#xa;(ii) file number&#xa;(iii) office where filed&#xa;(iv) indication to use reference" vertex="1">
           <mxGeometry height="438" width="260" x="366.69990078125" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-59" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="If the application claims priority, are the missing parts in the priorty app?" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-59" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="If the application claims priority, are the missing parts in the priorty app?" vertex="1">
           <mxGeometry height="302" width="302" x="30" y="1583" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-68" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.03;entryY=0;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-60" value="No">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-68" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.03;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="No">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="254" y="1897" />
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-67" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.64;entryY=-0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-67" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.64;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="108" y="1897" />
@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-66" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-56" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-59" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-66" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-56" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-59" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="413.5" y="1495" />
@@ -118,13 +118,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-56" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Communication under *Rules 56(1)* with **2 month term**" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-56" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Communication under *Rules 56(1)* with **2 month term**" vertex="1">
           <mxGeometry height="87" width="302" x="262.5" y="1396" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-55" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Communciation under *Rule 55* with **2 month term**" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-55" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Communciation under *Rule 55* with **2 month term**" vertex="1">
           <mxGeometry height="63" width="278" x="362" y="1702.5" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-69" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-55" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-69" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-55" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="501" y="1897" />
@@ -132,10 +132,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-54" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Applicants correct deficiency on own inititive **2 month term**" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-54" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Applicants correct deficiency on own inititive **2 month term**" vertex="1">
           <mxGeometry height="102" width="260" x="670" y="1683" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-70" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-54" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=0;noEdgeStyle=1;orthogonal=1;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-70" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-54" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="1897" />
@@ -143,10 +143,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-58" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Date of Filin&lt;span style=&quot;padding-left:&quot;&gt;g =&lt;/span&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;date of submission receipt&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;padding-left:&quot;&gt;**Rule 40**&lt;/span&gt;" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-58" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Date of Filin&lt;span style=&quot;padding-left:&quot;&gt;g =&lt;/span&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;date of submission receipt&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;padding-left:&quot;&gt;**Rule 40**&lt;/span&gt;" vertex="1">
           <mxGeometry height="78" width="260" x="-39.5" y="1997" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-60" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Date of Filing =&lt;span style=&quot;padding-left:&quot;&gt;date when deficiencies rectified **Rule 56(2)**&lt;/span&gt;" vertex="1">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-60" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Date of Filing =&lt;span style=&quot;padding-left:&quot;&gt;date when deficiencies rectified **Rule 56(2)**&lt;/span&gt;" vertex="1">
           <mxGeometry height="102" width="260" x="371" y="1985" as="geometry" />
         </mxCell>
       </root>
