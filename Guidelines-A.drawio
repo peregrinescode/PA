@@ -1,153 +1,384 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.6.6">
   <diagram name="Page-1" id="Y6rzFA0iPf-mLOEnrQ1t">
-    <mxGraphModel dx="2617" dy="2093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="1664" dy="1403" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-84" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-72">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-84" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="495.869676953125" y="-17" />
-              <mxPoint x="495.869676953125" y="59" />
+              <mxPoint x="500" y="-20" />
+              <mxPoint x="500" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-71" parent="1" style="rounded=1;arcSize=29;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Start" vertex="1">
-          <mxGeometry height="54" width="65" x="463.369676953125" y="-83" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-71" parent="1" style="rounded=1;arcSize=29;strokeWidth=2;labelBackgroundColor=none;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Start" vertex="1">
+          <mxGeometry height="50" width="70" x="460" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-81" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-73">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-81" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="495.869676953125" y="146" />
-              <mxPoint x="497.5297515625" y="222" />
+              <mxPoint x="500" y="150" />
+              <mxPoint x="500" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-72" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="File EP Application in writing **Rule 35(1)**" vertex="1">
-          <mxGeometry height="63" width="278" x="356.869676953125" y="71" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-72" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;rounded=1;" value="File EP Application in writing **Rule 35(1)**" vertex="1">
+          <mxGeometry height="60" width="280" x="360" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-73" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Receive submission receipt **Rule 35(2)**" vertex="1">
-          <mxGeometry height="63" width="278" x="358.5297515625" y="234" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-73" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;labelBackgroundColor=none;rounded=1;" value="Receive submission receipt **Rule 35(2)**" vertex="1">
+          <mxGeometry height="60" width="280" x="360" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-64" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-57" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-53" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-64" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-57" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-53" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="496.69990078125" y="930" />
-              <mxPoint x="501.63464999999997" y="1006" />
+              <mxPoint x="500" y="930" />
+              <mxPoint x="500" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-53" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Is the application complete?" vertex="1">
-          <mxGeometry height="278" width="278" x="362.63464999999997" y="1018" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-53" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;rounded=1;" value="Is the application complete?" vertex="1">
+          <mxGeometry height="280" width="280" x="360" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-65" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.4;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-65" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.4;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=default;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="401.13464999999997" y="1308" />
-              <mxPoint y="1346" />
-              <mxPoint y="1533" />
-              <mxPoint y="1533" />
-              <mxPoint y="1935" />
-              <mxPoint x="28" y="1973" />
+              <mxPoint x="400" y="1310" />
+              <mxPoint y="1350" />
+              <mxPoint y="1530" />
+              <mxPoint y="1530" />
+              <mxPoint y="1940" />
+              <mxPoint x="30" y="1970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-63" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-56" value="missing drawings or parts of&#xa;description/erroneous filing">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-63" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=default;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-56" value="missing drawings or parts of&#xa;description/erroneous filing">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="468.13464999999997" y="1310" />
-              <mxPoint x="413.5" y="1384" />
+              <mxPoint x="470" y="1310" />
+              <mxPoint x="410" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-62" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-55" value="no indication patent is sought/no description/reference&#xa;">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-62" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=default;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-55" value="no indication patent is sought/no description/reference&#xa;">
           <mxGeometry relative="1" x="0.5875" y="15" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="535.13465" y="1310" />
-              <mxPoint x="594.5" y="1346" />
-              <mxPoint x="594.5" y="1533" />
-              <mxPoint x="501" y="1571" />
+              <mxPoint x="540" y="1310" />
+              <mxPoint x="590" y="1350" />
+              <mxPoint x="590" y="1530" />
+              <mxPoint x="500" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-61" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-54" value="Missing applicant/contact details OR erroneous filing">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-61" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-53" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=default;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-54" value="Missing applicant/contact details OR erroneous filing">
           <mxGeometry relative="1" x="0.7882" y="-4" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="602.13465" y="1308" />
-              <mxPoint x="650.817325" y="1346" />
-              <mxPoint x="650.817325" y="1533" />
-              <mxPoint x="800" y="1571" />
+              <mxPoint x="600" y="1310" />
+              <mxPoint x="650" y="1350" />
+              <mxPoint x="650" y="1530" />
+              <mxPoint x="800" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-57" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;align=left;labelBackgroundColor=none;rounded=1;html=1;absoluteArcSize=1;arcSize=14;" value="&lt;div align=&quot;left&quot;&gt;Recieving Section checks for:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(i) Applicant identity/contact details&lt;br&gt;(ii) Indication that an EP is sought&lt;br&gt;(iii) Description or reference to a previously filed applicaiton&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;If reference to prev app, EPO checks for:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(i) filing date of prev app&lt;br&gt;(ii) file number&lt;br&gt;(iii) office where filed&lt;br&gt;(iv) indication to use reference&lt;/div&gt;" vertex="1">
-          <mxGeometry height="224" width="260" x="366.7" y="694" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-57" parent="1" style="whiteSpace=wrap;strokeWidth=2;align=left;labelBackgroundColor=none;rounded=1;html=1;absoluteArcSize=1;arcSize=14;" value="&lt;div align=&quot;left&quot;&gt;Recieving Section checks for:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(i) Applicant identity/contact details&lt;br&gt;(ii) Indication that an EP is sought&lt;br&gt;(iii) Description or reference to a previously filed applicaiton&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;If reference to prev app, EPO checks for:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(i) filing date of prev app&lt;br&gt;(ii) file number&lt;br&gt;(iii) office where filed&lt;br&gt;(iv) indication to use reference&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="260" x="370" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-59" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="If the application claims priority,&#xa;are the missing parts in the priorty app?" vertex="1">
-          <mxGeometry height="302" width="302" x="30" y="1583" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-59" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;rounded=1;" value="If the application claims priority,&#xa;are the missing parts in the priorty app?" vertex="1">
+          <mxGeometry height="300" width="300" x="30" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-68" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.03;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="No">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-68" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.03;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=default;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="No">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="1897" />
-              <mxPoint x="417.6666666666667" y="1973" />
+              <mxPoint x="250" y="1900" />
+              <mxPoint x="420" y="1970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-67" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.64;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-67" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-59" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.64;entryY=-0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=default;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-58" value="Yes">
+          <mxGeometry relative="1" x="-0.0006" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="110" y="1900" />
+              <mxPoint x="150" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-66" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-56" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-59" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="108" y="1897" />
-              <mxPoint x="153" y="1973" />
+              <mxPoint x="410" y="1500" />
+              <mxPoint x="180" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-66" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-56" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-59" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-56" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;labelBackgroundColor=none;rounded=1;" value="Communication under Rules 56(1)&#xa;with 2 month term" vertex="1">
+          <mxGeometry height="90" width="300" x="260" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-55" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;labelBackgroundColor=none;rounded=1;" value="Communciation under Rule 55&#xa; with 2 month term" vertex="1">
+          <mxGeometry height="60" width="280" x="360" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-69" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-55" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="413.5" y="1495" />
-              <mxPoint x="181" y="1571" />
+              <mxPoint x="500" y="1900" />
+              <mxPoint x="500" y="1970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-56" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Communication under Rules 56(1)&#xa;with 2 month term" vertex="1">
-          <mxGeometry height="87" width="302" x="262.5" y="1396" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-54" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" value="Applicants correct deficiency on own inititive &#xa;2 month term" vertex="1">
+          <mxGeometry height="100" width="260" x="670" y="1680" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-55" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Communciation under Rule 55&#xa; with 2 month term" vertex="1">
-          <mxGeometry height="63" width="278" x="362" y="1702.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-69" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-55" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-70" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-54" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="501" y="1897" />
-              <mxPoint x="501" y="1971" />
+              <mxPoint x="800" y="1900" />
+              <mxPoint x="580" y="1970" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-54" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Applicants correct deficiency on own inititive &#xa;2 month term" vertex="1">
-          <mxGeometry height="102" width="260" x="670" y="1683" as="geometry" />
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-58" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" value="Date of Filing = date of submission receipt &#xa;Rule 40" vertex="1">
+          <mxGeometry height="80" width="260" x="-40" y="2000" as="geometry" />
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-70" edge="1" parent="1" source="Y9yzWqpGaqSWGYxASxwy-54" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="Y9yzWqpGaqSWGYxASxwy-60" value="">
+        <mxCell id="Y9yzWqpGaqSWGYxASxwy-60" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" value="Date of Filing =date when deficiencies rectified Rule 56(2)" vertex="1">
+          <mxGeometry height="100" width="260" x="370" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="AjrOfuPoYSKkvhIUpVE3-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;&lt;font&gt;GL A II - Examination on filing&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1410" width="50" x="990" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="AjrOfuPoYSKkvhIUpVE3-7" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="70" x="460" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-16" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="1897" />
-              <mxPoint x="584.3333333333334" y="1973" />
+              <mxPoint x="420" y="2860" />
+              <mxPoint x="400" y="2930" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-58" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Date of Filing = date of submission receipt &#xa;Rule 40" vertex="1">
-          <mxGeometry height="78" width="260" x="-39.5" y="1997" as="geometry" />
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-22" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="2860" />
+              <mxPoint x="570" y="2890" />
+              <mxPoint x="570" y="3240" />
+              <mxPoint x="570" y="3240" />
+              <mxPoint x="570" y="3560" />
+              <mxPoint x="650" y="3600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Y9yzWqpGaqSWGYxASxwy-60" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;rounded=1;" value="Date of Filing =date when deficiencies rectified Rule 56(2)" vertex="1">
-          <mxGeometry height="102" width="260" x="371" y="1985" as="geometry" />
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-42" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="Non-compliance" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="307" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AjrOfuPoYSKkvhIUpVE3-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;GL A II - Examination on filing&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="1411" width="50" x="986" y="676" as="geometry" />
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;align=center;labelBackgroundColor=none;" value="&lt;div align=&quot;center&quot;&gt;Recieving Section checks &lt;b&gt;Representation&lt;/b&gt;:&lt;br&gt;&lt;br&gt;(i) Applicants with neither residence nor principal place of business in a contracting state must have a Rep fulfilling Art. 134(8)&lt;br&gt;&lt;br&gt;(ii) If Rep is an employee, must be authorised as such&lt;br&gt;&lt;br&gt;(iii) the Authorisation must be signed and filed on time&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="260" x="350" y="2610" as="geometry" />
         </mxCell>
-        <mxCell id="AjrOfuPoYSKkvhIUpVE3-7" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" value="" vertex="1">
-          <mxGeometry height="177" width="70" x="461.7" y="413" as="geometry" />
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-17" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="3200" />
+              <mxPoint x="380" y="3280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-23" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="3200" />
+              <mxPoint x="540" y="3240" />
+              <mxPoint x="540" y="3560" />
+              <mxPoint x="560" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-43" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="Non-compliance" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;align=center;labelBackgroundColor=none;" value="&lt;div align=&quot;center&quot;&gt;Recieving Section checks &lt;b&gt;Physical Requirements:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;request, description, claims, drawings and abstract meet the requirements of Rule 49(2).&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;E.g. on A4 paper, minimum margins, non-colour drawings etc.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="260" x="270" y="2940" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-3" parent="1" style="shape=parallelogram;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=12;size=35.16666666666663;labelBackgroundColor=none;" value="Communication under Rule 58&lt;br&gt;&amp;nbsp;with&lt;b&gt; 2 month term&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="420" y="3820" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-18" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="3520" />
+              <mxPoint x="260" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-24" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="3520" />
+              <mxPoint x="470" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-44" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="Non-compliance" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;align=center;labelBackgroundColor=none;" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;Recieving Section checks Request for grant:&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(i) Used EPO Form 1001&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(ii) Form contains name, address and nationality of the applicant, and state of residence/business as specified in &lt;b&gt;Rule 41(2)c&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="260" x="250" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-19" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="4110" />
+              <mxPoint x="30" y="4190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-25" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="4110" />
+              <mxPoint x="360" y="4190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-41" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="Non-compliance" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-26" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="4110" />
+              <mxPoint x="740" y="4190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-40" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="&lt;div&gt;Incorrect designation&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;align=center;labelBackgroundColor=none;" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;Recieving Section checks &lt;b&gt;Designation of inventor&lt;/b&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(i) Must be a natural person(s)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(ii) Inventors designated by the applicant may include: a waiver of right to be mentioned as inventor&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(iii) If filed in separate document, must include inventor&#39;s name, country and place of residence&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(iv) in case of assignment, the words by agreement dated suffice&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(v) For inventions by employees, a mention of employement is enough&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="490" width="260" x="130" y="3610" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-6" parent="1" style="shape=parallelogram;fixedSize=1;strokeWidth=2;whiteSpace=wrap;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=35;size=44.83333333333334;labelBackgroundColor=none;" value="&lt;div&gt;Communication under Rule 60 with term of&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;16 months from filing/priority date&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="330" x="190" y="4460" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-7" parent="1" style="shape=parallelogram;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=42;size=51.16666666666663;labelBackgroundColor=none;" value="&lt;div&gt;Request to rectify, in necessary including:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(i) consent of wrongly designated person&lt;br&gt;(ii) consent from applicant/proprietor" vertex="1">
+          <mxGeometry height="160" width="370" x="550" y="4430" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-20" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="4840" />
+              <mxPoint x="-220" y="4920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-27" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="4840" />
+              <mxPoint x="90" y="4920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-36" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;backgroundOutline=0;" value="&lt;span style=&quot;padding-left: 8px; padding-right: 8px; text-align: center; justify-content: center;&quot;&gt;Late/incorrect priority declaration/&lt;br&gt;&lt;span style=&quot;padding-left:&quot;&gt;No priority documents or copy of/Other deficiencies&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="47" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-28" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="4840" />
+              <mxPoint x="430" y="4920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-37" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="&lt;div&gt;Failed to supply priority&lt;/div&gt;&lt;div&gt;file number&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-29" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="4840" />
+              <mxPoint x="750" y="4920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-38" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="&lt;div&gt;Incorrect&lt;/div&gt;&lt;div&gt;file number&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-30" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="4840" />
+              <mxPoint x="1040" y="4920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-39" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="&lt;div&gt;No translation&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;labelBackgroundColor=none;" value="&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;Recieving Section checks &lt;b&gt;Claim to priority&lt;/b&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(i) Prev app(s) was filed in state/WTO member recognised in EPC&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(ii) Same applicant/Successor who made prev app(s)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(iii) Application made during &lt;b&gt;12 month period&lt;/b&gt; from earliest filing date of prev app(s)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(iv) concerns the same invention as prev app(s)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(v) declaration of priority containing: date or prev app, filing state, file number&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(vi) copy of prev app(s)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(vii) translation to EPO language&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(viii) declaration replacing translation&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(ix) copy of search results for prev app(s)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="630" width="260" x="-100" y="4200" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-9" parent="1" style="shape=parallelogram;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=12;size=25.40697674418604;labelBackgroundColor=none;" value="&lt;div&gt;Submit new documents up to&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;b&gt;16 months from earliest priority date&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="-60" y="4970" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-10" parent="1" style="shape=parallelogram;fixedSize=1;strokeWidth=2;whiteSpace=wrap;flipH=1;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=12;size=23.453488372093034;labelBackgroundColor=none;" value="&lt;div&gt;Invitation to provide number under Rule 59&lt;/div&gt;&lt;div&gt;with &lt;b&gt;two-month term&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="270" y="4970" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-11" parent="1" style="shape=parallelogram;fixedSize=1;strokeWidth=2;whiteSpace=wrap;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=31;size=28.406976744186068;labelBackgroundColor=none;" value="Request for Correction under Rule 139" vertex="1">
+          <mxGeometry height="60" width="280" x="610" y="4980" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;shape=parallelogram;html=1;perimeter=parallelogramPerimeter;rounded=1;arcSize=12;size=0.10314177101967847;labelBackgroundColor=none;" value="&lt;div&gt;Invitation to provide translation&lt;/div&gt;&lt;div&gt;according to Rule 53(3)&amp;nbsp;&lt;/div&gt;&lt;div&gt;with &lt;b&gt;variable term&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="260" x="910" y="4950" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-31" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="5110" />
+              <mxPoint x="70" y="5190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-35" connectable="0" parent="l7FRqIE4TSec9MWNu2LD-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" value="&lt;div&gt;Bad title&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-46" edge="1" parent="1" source="l7FRqIE4TSec9MWNu2LD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="l7FRqIE4TSec9MWNu2LD-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;labelBackgroundColor=none;" value="&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;Recieving Section checks &lt;b&gt;Title of the invention&lt;/b&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(i) must clearly and concisely state the technical designations of the invention&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="260" x="-350" y="4930" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;labelBackgroundColor=none;" value="EPO will change title under own initiative" vertex="1">
+          <mxGeometry height="80" width="260" x="-60" y="5250" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;&lt;font&gt;GL A III - Examination of formal requirements&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="2910" width="50" x="1320" y="2460" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-33" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="70" x="470" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="l7FRqIE4TSec9MWNu2LD-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;html=1;absoluteArcSize=1;arcSize=14;labelBackgroundColor=none;" value="&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;Recieving Section checks &lt;b&gt;Prohibited matter&lt;/b&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;&lt;span style=&quot;padding-left:&quot;&gt;(i) must not contain statements&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="260" x="-360" y="5230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
